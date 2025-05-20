@@ -19,7 +19,7 @@ The **MobileProviderChatApp** is a user-facing web application that enables subs
 - Integration with backend bot for intelligent replies
 
 ## 🛠️ Technologies Used
-
+- React
 - JavaScript
 - Firebase Firestore
 
