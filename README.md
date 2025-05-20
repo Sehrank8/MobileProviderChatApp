@@ -20,10 +20,8 @@ The **MobileProviderChatApp** is a user-facing web application that enables subs
 
 ## 🛠️ Technologies Used
 
-- React + Vite
 - JavaScript
 - Firebase Firestore
-- CSS
 
 ## 📁 Project Structure
 
