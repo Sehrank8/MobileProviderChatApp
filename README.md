@@ -4,7 +4,6 @@
 The **MobileProviderChatApp** is a user-facing web application that enables subscribers to interact with an AI chatbot about their mobile service billing, usage, and payments in real time. It is built using React and connects to Firebase for real-time messaging.
 
 ### You can test it here: On [Render](https://mobileproviderchatapp.onrender.com)
-### Video link: [VIDEO](https://drive.google.com/drive/folders/1iURph3ZgeGjW0-FUfo7s3M3Ar8QlmeFc?usp=sharing)
 ## 🔗 Related Projects
 
 - **API Gateway**: [MobileProviderGateway](https://github.com/Sehrank8/MobileProviderGateway)
